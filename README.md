@@ -1,58 +1,23 @@
-# 👋 Hi there, I'm [Your Name]!
+<h1 align="center">Hi 👋, I'm Bhushan Chitte</h1>
 
-Welcome to my GitHub profile! I’m a passionate **[Your Role or Profession]** who loves building, learning, and sharing knowledge.  
-Currently focused on **[what you're working on/interested in]** — and always exploring new technologies.
+- 🌱 I’m currently working as a **AI-ML Intern**
 
----
+- 💞️ I’m looking to collaborate on different projects related to **Generative AI, Machine Learning & Deep Learning.**
 
-## 🚀 About Me
-- 💻 I’m currently working on **[your project or area]**
-- 🌱 Learning **[tech stack or skill]**
-- 🤝 Open to collaborate on **[type of projects or topics]**
-- 💬 Ask me about **[areas of expertise or interest]**
-- 📫 Reach me at: **[your email or contact link]**
-- ⚡ Fun fact: **[something cool about you]**
+<!-- - 📄 Know about my experiences [here](https://drive.google.com/file/d/1mp8Mp75sALyiE1kw4R5lgZ0WXGLJuBHC/view?usp=sharing) -->
 
----
+- 📫 How to reach me **bhushanrchitte2021@gmail.com**
 
-## 🛠️ Tech Stack
 
-**Languages:**  
-`Python` • `JavaScript` • `TypeScript` • `C++` • `Java`
+### Connect with me:
+[<img align="left" alt="vkdhiman93 | LinkedIn" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />][linkedin]
+<br />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vkdhiman93&show_icons=true&locale=en&layout=compact" alt="vkdhiman93" /></p> 
 
-**Frameworks & Tools:**  
-`React` • `Node.js` • `Next.js` • `Tailwind CSS` • `Express` • `Django` • `FastAPI`
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=vkdhiman93&show_icons=true&theme=dark&locale=en" alt="vkdhiman93" /></p>
+<br />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vkdhiman93&theme=dark" alt="vkdhiman93" /></p> 
 
-**Databases:**  
-`PostgreSQL` • `MongoDB` • `MySQL` • `SQLite`
 
-**Cloud & DevOps:**  
-`AWS` • `Docker` • `GitHub Actions` • `Firebase`
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
-
----
-
-## 🏗️ Featured Projects
-
-🔹 **[Project Name](https://github.com/YOUR_USERNAME/PROJECT_REPO)** — short description of what it does  
-🔹 **[Project Name](https://github.com/YOUR_USERNAME/PROJECT_REPO)** — short description of what it does  
-🔹 **[Project Name](https://github.com/YOUR_USERNAME/PROJECT_REPO)** — short description of what it does  
-
----
-
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/YOUR_USERNAME)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=firefox&logoColor=white)](https://YOUR_PORTFOLIO_LINK)
-
----
-
-⭐️ From [YOUR NAME](https://github.com/YOUR_USERNAME)
+[twitter]: https://twitter.com/vkdhiman93
+[linkedin]: https://www.linkedin.com/in/vivek-kumar-344b9572/
