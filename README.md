@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bhushan Chitte</h1>
 
-- 🌱 I’m currently working as a **AI-ML Intern**
+- 🌱 I’m currently working as a **AI-ML Engineer**
 
 - 💞️ I’m looking to collaborate on different projects related to **Generative AI, Machine Learning & Deep Learning.**
 
